@@ -9,7 +9,6 @@
 	{
 		"inputs": [
 			{
-				"internalType": "uint256",
 				"name": "_bankCap",
 				"type": "uint256"
 			},
