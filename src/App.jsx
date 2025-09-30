@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import { ethers } from 'ethers'
 import './App.css'
 
-// ABI completo del contrato KipuBank
+// ABI completo del contrato KipuBank.
 const KIPU_BANK_ABI = [
   "function deposit() external payable",
   "function withdraw(uint256 amount) external",
