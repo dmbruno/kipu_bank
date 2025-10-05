@@ -426,7 +426,7 @@ function App() {
       </div>
       <div className="atm-content">
         <div className={`main-layout ${isOwner ? 'with-owner' : ''}`}>
-          {/* Columna principal */}
+          {/* Columna principal. */}
           <div className="main-column">
             {/* Saldos */}
             <div className="balance-display">
